@@ -10,16 +10,19 @@ RBC has about 16 million clients worldwide
 Along with keeping up with the latest tech RBC is also working overtime to look cutting-edge – developing such features as biometric identification.
 Facebook recruited PayPal’s former president, and reports surfaced that the social-media juggernaut would incorporate money transfers into its chat service; and Apple unveiled a secure-payments business in partnership with leading retailers such as pharmacy chain Walgreens. Even Snapchat, the text-messaging service targeted at teens, launched a money-transfer service called Snapcash.
 Major customers for Financial institutes are the general public, small scale industries, investors, Real Estate, Students and others. 
+
 Despite Fintech companies phenomenal user growth and ubiquity in everyday life, many tech companies are struggling to make money. Amazon, for instance, lost $437-million (U.S.) last quarter, despite having a reputation as a digital-retailing genius. Canada’s Big Six banks, by contrast, collectively earned $33-billion last year, making financial services seem like a profit oasis.
 Because the Canadian banks are so profitable, they have ample ammunition to put up a fight. When it comes to people’s hard-earned savings, Banks have a great advantage, something the tech giants can’t replicate overnight: public trust.
 Royal Bank of Canada joined forces with credit-card giant MasterCard and Canadian tech startup Bionym to experiment with a wristband that authenticates identity by reading cardiac rhythms. If it works, the device will make mobile financial transactions infinitely more secure by eradicating old-fashioned PINs and passwords.
 The unique test run comes at a crucial time for Canadian banks. Everyone from Apple to Facebook is encroaching on the territory of traditional lenders, and the threat of competition from these unusual rivals has forced financial institutions to invest in a flurry of innovations this fall.
 Tangerine, formerly known as ING Direct Canada, recently unveiled biometric tools for its mobile banking app, including a fingerprint scanner that supplants old-fashioned passwords; the Bank of Nova Scotia has just designed a new app for Samsung’s smartwatch that lets users check account balances on their wrists.
+
 According to Forbes the hottest trend for improving and innovation in 2020 are API’s, Cloud Computing, Video Collaboration/Marketing, Person to Person payment and Digital Account opening.
 The future would be trending about ChatBot and Machine Learning 
 
 Apart from the top 4 banks in Canada, tech companies such as Apple, Google, Facebook, Square, Paypa are other major companies in the Banking domain
 RBC strives to have a positive impact on the economies of the communities and countries in which they do business. They provide returns to shareholders, pay taxes, create employment, and purchase goods and services from suppliers of all sizes. They also support economic development by providing loans, advice, information and services to clients, and support small business, entrepreneurship, innovation and social programs.
+
 some of the core metrics that companies in this domain use to measure success are as follows
 Financial - like Revenue, Expenses, operating profits. Operating Expenses As A Percentage Of Assets, AUM (Asset Under Management), Return of equity, Return of assets. 
 
