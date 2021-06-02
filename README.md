@@ -1,11 +1,31 @@
-# HW1-Casestudy
-## Title : Personal Finance/Deposits/Online Banking
-## Royal Bank of Canada (incorporated 1864)
+# FINTECH Casestudy
+## DOMAIN : Personal Finance/Deposits/Online Banking
+## COMPANY : Royal Bank of Canada (incorporated 1864)
+![RBC](https://user-images.githubusercontent.com/83671629/120539806-f614fe80-c3b5-11eb-9425-ed15346209be.png)
+
+website : https://www.rbcroyalbank.com/personal.html
+
+Stock price: RY (TSE) $125.81 -0.04 (-0.03%)
+
+Jun. 2, 3:07 p.m. EDT - Disclaimer
+
+CEO: David I. McKay (Aug. 1, 2014–)
+
+Number of employees: 83,842 (2020)
+
+Subsidiaries: RBC Direct Investing, RBC Dominion Securities, MORE
+
+
+
+## History
+RBC is a very large financial instute that is striving to improve in doing something interesting and new with technology every day.
 
 In 1901, the Merchants Bank of Halifax changed its name to the Royal Bank of Canada (RBC)
-
-In 1864, the Merchants Bank of Halifax was founded in Halifax, Nova Scotia, as a commercial bank that financed the fishing and timber industries and the European and Caribbean import/export businesses.[13] By 1869 the Merchants' Bank was officially incorporated and received its federal charter in the same year. It currently has around 83,000 employees. 
+In 1864, the Merchants Bank of Halifax was founded in Halifax, Nova Scotia, as a commercial bank that financed the fishing and timber industries and the European and Caribbean import/export businesses. By 1869 the Merchants' Bank was officially incorporated and received its federal charter in the same year. It currently has around 83,000 employees. 
 RBC has about 16 million clients worldwide
+
+![rbc_history](https://user-images.githubusercontent.com/83671629/120540885-2f01a300-c3b7-11eb-9bb5-27e1be5b7b35.jpg)
+
 
 Along with keeping up with the latest tech RBC is also working overtime to look cutting-edge – developing such features as biometric identification.
 Facebook recruited PayPal’s former president, and reports surfaced that the social-media juggernaut would incorporate money transfers into its chat service; and Apple unveiled a secure-payments business in partnership with leading retailers such as pharmacy chain Walgreens. Even Snapchat, the text-messaging service targeted at teens, launched a money-transfer service called Snapcash.
