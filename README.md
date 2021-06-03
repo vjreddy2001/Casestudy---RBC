@@ -62,6 +62,7 @@ Productivity - Total Volume Of Accounts, AUM Per Employee, Operating Profit Per 
 Along with Employ additional tech and digitalize end user requirements, Digital interface and Bot service would be improve RBC precense in the industry.
  
  Here are some of the research reference.
+ 
  http://www.rbc.com/history/
  https://www.forbes.com/search/?q=fintech&sh=7da732f6279f
  
